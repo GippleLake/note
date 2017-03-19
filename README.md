@@ -1,4 +1,4 @@
-## [设计模式](./src/main/java/com/gipplelake/designmode])
+## [设计模式](https://github.com/GippleLake/note/tree/master/src/main/java/com/gipplelake/designmode)
 
 ## [java 8](./src/main/java/com/gipplelake/java8)
 
